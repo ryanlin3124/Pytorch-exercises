@@ -1,0 +1,1 @@
+Using the Mendeley brain tumor dataset, the goal will be to classify the 4 different "tumors" (Glioma Tumor, Meningioma Tumor, Pituitary Tumor, No Tumor (Normal))
