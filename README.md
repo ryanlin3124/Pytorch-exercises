@@ -1,2 +1,2 @@
 # Pytorch-exercises
-Pytorch Beginner exercises from Daniel Bourke: https://www.learnpytorch.io/
+Pytorch Beginner exercises from Daniel Bourke: https://www.learnpytorch.io/ + Side brain tumor image classification project
